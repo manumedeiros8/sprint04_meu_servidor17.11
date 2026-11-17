@@ -1,0 +1,18 @@
+SPRINT 04 — COMO EXECUTAR
+
+1. Extraia esta pasta.
+2. Abra a pasta sprint04_meu_servidor no VS Code.
+3. Abra o terminal nessa pasta.
+4. Execute: npm install
+5. Para testar o Módulo 1: node experimento-json.js
+6. Para testar o Módulo 2: node teste-fs.js
+7. Para iniciar o servidor: npm start
+8. Abra no navegador:
+   http://localhost:3000/mensagens
+   http://localhost:3000/exemplo-salvar
+
+Depois de acessar /exemplo-salvar, abra data/mensagens.json
+para conferir que a mensagem foi gravada no arquivo.
+
+Observação: o desafio final do Módulo 4 deve ser feito junto com o professor,
+conforme orientação do material.
